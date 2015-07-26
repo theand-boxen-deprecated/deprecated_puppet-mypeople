@@ -1,3 +1,5 @@
+DEPRECATED!
+
 # MyPeople Puppet Module for Boxen
 
 Install [MyPeople](https://mypeople.daum.net/mypeople/web/main.do).
